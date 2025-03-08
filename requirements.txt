@@ -1,7 +1,6 @@
-numpy==2.2.3
-pandas=2.2.3
-streamlit== 1.43.0
-pickle
+pandas
+numpy
+streamlit
 scikit-learn
-pip==25.0.1
-sklearn
+matplotlib
+seaborn
